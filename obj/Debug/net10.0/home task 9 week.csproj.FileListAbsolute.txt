@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\home task 9 week\bin\Debug\net10.0\home task 9 week.exe
+C:\Users\Asus\Desktop\home task 9 week\bin\Debug\net10.0\home task 9 week.deps.json
+C:\Users\Asus\Desktop\home task 9 week\bin\Debug\net10.0\home task 9 week.runtimeconfig.json
+C:\Users\Asus\Desktop\home task 9 week\bin\Debug\net10.0\home task 9 week.dll
+C:\Users\Asus\Desktop\home task 9 week\bin\Debug\net10.0\home task 9 week.pdb
+C:\Users\Asus\Desktop\home task 9 week\obj\Debug\net10.0\home task 9 week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\home task 9 week\obj\Debug\net10.0\home task 9 week.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\home task 9 week\obj\Debug\net10.0\home task 9 week.AssemblyInfo.cs
+C:\Users\Asus\Desktop\home task 9 week\obj\Debug\net10.0\home task 9 week.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\home task 9 week\obj\Debug\net10.0\home task 9 week.dll
+C:\Users\Asus\Desktop\home task 9 week\obj\Debug\net10.0\refint\home task 9 week.dll
+C:\Users\Asus\Desktop\home task 9 week\obj\Debug\net10.0\home task 9 week.pdb
+C:\Users\Asus\Desktop\home task 9 week\obj\Debug\net10.0\home task 9 week.genruntimeconfig.cache
+C:\Users\Asus\Desktop\home task 9 week\obj\Debug\net10.0\ref\home task 9 week.dll
